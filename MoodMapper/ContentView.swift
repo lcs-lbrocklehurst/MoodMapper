@@ -32,12 +32,7 @@ struct ContentView: View {
                 .padding(20)
                 
                 List {
-                  
-                        
-                        Text("Shocked")
-                        
-                    
-                    
+                    Text("Shocked")
                     Text("Chillin")
                     Text("Embarrased")
                 }
